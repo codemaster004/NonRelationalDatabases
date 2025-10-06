@@ -2,7 +2,13 @@
 
 Simple project to store docker setup for the Non-Relational Data Bases laboratory on PG
 
-> PLEASE REMEMBER TO CREATE .env FILE 
+> PLEASE REMEMBER TO CREATE .env FILE
+
+Run command:
+
+```bash
+docker compose up -d
+```
 
 ## Neo4J
 
